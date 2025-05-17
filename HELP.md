@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.example.ticket-system' is invalid and this project uses 'com.example.ticket_system' instead.
-
 # Getting Started
 
 ### Reference Documentation

@@ -1,0 +1,17 @@
+com\example\ticketsystem\interfaces\dto\CreateTicketDto.class
+com\example\ticketsystem\interfaces\TicketController.class
+com\example\ticketsystem\application\UnresolvedTicketsLogger.class
+com\example\ticketsystem\application\TicketService.class
+com\example\ticketsystem\domain\model\Ticket.class
+com\example\ticketsystem\domain\model\Ticket$TicketBuilder.class
+com\example\ticketsystem\interfaces\dto\UpdateTicketStatusDto.class
+com\example\ticketsystem\domain\model\Ticket$Status.class
+com\example\ticketsystem\interfaces\dto\TicketDto$TicketDtoBuilder.class
+com\example\ticketsystem\TicketsystemApplication.class
+com\example\ticketsystem\domain\exceptions\TicketException.class
+com\example\ticketsystem\interfaces\dto\CreateTicketDto$CreateTicketDtoBuilder.class
+com\example\ticketsystem\interfaces\dto\UpdateTicketStatusDto$UpdateTicketStatusDtoBuilder.class
+com\example\ticketsystem\interfaces\dto\TicketDto.class
+com\example\ticketsystem\domain\repositories\TicketRepository.class
+com\example\ticketsystem\ServletInitializer.class
+com\example\ticketsystem\application\TicketServiceTest.class
